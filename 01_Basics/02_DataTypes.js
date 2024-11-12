@@ -24,3 +24,6 @@ console.log(typeof "hello");
 console.log(typeof null);
 console.log(typeof undefined);
 console.log(typeof a);
+console.log(typeof true);
+
+// Devraj ko Satyaprakash ne bola
